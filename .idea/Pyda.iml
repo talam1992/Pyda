@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Python Gui and Gaming" />
+    <orderEntry type="module" module-name="Software Development for Business 1" />
+    <orderEntry type="module" module-name="Software Development for Business 2" />
+    <orderEntry type="module" module-name="SDB2 Re-sit 1516" />
+    <orderEntry type="module" module-name="Reconnaissance Scanner" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
